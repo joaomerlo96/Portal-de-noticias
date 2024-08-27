@@ -66,3 +66,8 @@ main{
   color: var(--text-color-primary);
   box-shadow: 0px 4px 16px rgba(2,6,23,0.25);
 }
+
+main{
+  margin-top: 48px;
+  gap: 80px;
+}
